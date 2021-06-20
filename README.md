@@ -1,3 +1,24 @@
+An incredible disney plus clone app created by react js.I have created login page,homepage,video page.Beauitfull animations on cards.
+Used styled components for design.
+
+
+
+login page 
+
+![image](https://user-images.githubusercontent.com/34640475/122671241-547a1380-d1e3-11eb-8f64-149ba0d81096.png)
+
+home page 
+
+![image](https://user-images.githubusercontent.com/34640475/122671355-c9e5e400-d1e3-11eb-8db8-392748febcff.png)
+
+![image](https://user-images.githubusercontent.com/34640475/122671365-d5d1a600-d1e3-11eb-88a2-4914b6f989d6.png)
+
+
+video page
+
+![image](https://user-images.githubusercontent.com/34640475/122671337-b5a1e700-d1e3-11eb-8264-9441b2505364.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
